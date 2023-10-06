@@ -1,7 +1,7 @@
 #1. capatilize
 message = "hello world"
 result= message.capitalize()
-print(result)  # "Hello WOrld"
+print(result)  # "Hello world"
 
 #2. title()
 result = message.title()
